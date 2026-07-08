@@ -9,4 +9,6 @@ li h3 {text-align: center;
 
 li p {text-align: justify;}
 
-div { background-color: #FFFFFF;}
+div { background-color: #FFFFFF;
+    border: solid;
+    }
