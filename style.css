@@ -10,5 +10,6 @@ li h3 {text-align: center;
 li p {text-align: justify;}
 
 div { background-color: #FFFFFF;
-    border: solid;
+      border: solid;
+      border-radius: 8px;
     }
